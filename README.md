@@ -1,11 +1,5 @@
-<style>
-    h1{
-        background-color: "red";
-    }
-</style>
-
 <h1 align="center">Hola, mi nombre es <span>Bryan Urrutia</span> <img
-src="https://github.com/Bryan-Urrutia/Bryan-Urrutia/images/Hi.gif" height="32" />
+src="https://github.com/Bryan-Urrutia/Bryan-Urrutia/blob/main/images/Hi.gif" height="32" />
 </h1>
 
 <!--
