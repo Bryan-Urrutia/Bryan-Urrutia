@@ -1,4 +1,12 @@
-## Hi there 👋
+<style>
+    h1{
+        background-color: "red";
+    }
+</style>
+
+<h1 align="center">Hola, mi nombre es <span>Bryan Urrutia</span> <img
+src="https://github.com/Bryan-Urrutia/Bryan-Urrutia/images/Hi.gif" height="32" />
+</h1>
 
 <!--
 **Bryan-Urrutia/Bryan-Urrutia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
