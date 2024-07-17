@@ -1,7 +1,12 @@
-<h1 align="center">Bienvenido, mi nombre es <span style="color: blue;">Bryan Urrutia</span>  <img
+<h1 align="center" style="border-bottom: 0px;">Bienvenido, mi nombre es <span style="color: blue;">Bryan Urrutia</span>  <img
     src="https://github.com/Bryan-Urrutia/Bryan-Urrutia/blob/main/images/Hi.gif" height="32" />
 </h1>
-<h2 align="center">Habilidades 🛠️</h2>
+<h2 align="center" style="border-bottom: 2px solid white;">👨‍💻 Sobre mi</h2>
+<p align="justify">
+Ingeniero Civil en Informática con amplia experiencia en desarrollo de software, abarcando Backend, Frontend, bases de datos, despliegue, mantenimiento, seguridad informática, gestión de proyectos y pruebas de software. Destacado por la capacidad de liderar equipos y mejorar la eficiencia en los proyectos de software.
+</p>
+<hr style="border-bottom: 2px solid white;">
+<h2 align="center" style="border-bottom: 2px solid white;">Habilidades 🛠️</h2>
 <h3 align="center">Lenguajes de programación</h3>
 
 <div align="center">
@@ -21,9 +26,9 @@
 <h3>Bases de datos</h3>
 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-<hr>
+<hr style="border-bottom: 2px solid white;">
 
-<h2>Proyectos 👔</h2>
+<h2 style="border-bottom: 2px solid white;">Proyectos 👔</h2>
 <table style="border-radius: 10px">
 <thead align="center">
     <tr border: none;>
