@@ -1,4 +1,4 @@
-<div style="background=red;">
+<div style="background-color=red;">
     <h1 align="center">Bienvenido, mi nombre es <span style="color: blue;">Bryan Urrutia</span>  <img
     src="https://github.com/Bryan-Urrutia/Bryan-Urrutia/blob/main/images/Hi.gif" height="32" />
     </h1>
