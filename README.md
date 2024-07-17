@@ -4,7 +4,7 @@
 <h2 align="center">Habilidades 🛠️</h2>
 <h3 align="center">Lenguajes de programación</h3>
 
-<div style="display:flex; justify-content:center; gap: 10px;">
+<div align="center">
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 </div>
