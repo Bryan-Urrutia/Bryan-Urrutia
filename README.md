@@ -16,3 +16,6 @@ src="https://github.com/Bryan-Urrutia/Bryan-Urrutia/blob/main/images/Hi.gif" hei
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 <br/>
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+## Las estadisticas del repositorio
+![Bryan Urrutia GitHub stats](https://github-readme-stats.vercel.app/api?username=bryan-urrutia&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bryan-urrutia&layout=compact&theme=dark)
