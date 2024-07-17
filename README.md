@@ -41,15 +41,24 @@ Ingeniero Civil en Informática con amplia experiencia en desarrollo de software
 <thead align="center">
     <tr border: none;>
     <td><b>Nombre</b></td>
+    <td><b>Código</b></td>
+    <td><b>Aplicación</b></td>
     </tr>
 </thead>
 <tbody>
     <tr>
-    <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>React PullToRefresh component</b></a></td>
+        <td><b>Ecommerce App</b></td>
+        <td><a href="https://github.com/Bryan-Urrutia/ecommerce"><b>Código</b></a></td>
+        <td><a href="https://ecommerce-production-b836.up.railway.app/"><b>Página</b></a></td>
+    </tr>
+    <tr>
+        <td><b>Music Website</b></td>
+        <td><a href="https://github.com/Bryan-Urrutia/musicwebsite"><b>Código</b></a></td>
+        <td><a href="https://musicwebsite-production.up.railway.app/"><b>Página</b></a></td>
     </tr>
 </tbody>
 </table>
 
 
-<!-- ## Las estadisticas del repositorio
-![Bryan Urrutia GitHub stats](https://github-readme-stats.vercel.app/api?username=bryan-urrutia&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bryan-urrutia&layout=compact&theme=dark) -->
+## Estadística
+![Bryan Urrutia GitHub stats](https://github-readme-stats.vercel.app/api?username=bryan-urrutia&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bryan-urrutia&layout=compact&theme=dark)
