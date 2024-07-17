@@ -1,7 +1,7 @@
 <h1 align="center" style="border-bottom: 0px;">Bienvenido, mi nombre es <span style="color: blue;">Bryan Urrutia</span>  <img
     src="https://github.com/Bryan-Urrutia/Bryan-Urrutia/blob/main/images/Hi.gif" height="32" />
 </h1>
-<h2 align="center" style="border-bottom: 0px solid white !important;">👨‍💻 Sobre mi</h2>
+<div align="center" style="font-size:1.5em; border-bottom: 0px solid white !important;">👨‍💻 Sobre mi</div>
 <p align="justify">
 Ingeniero Civil en Informática con amplia experiencia en desarrollo de software, abarcando Backend, Frontend, bases de datos, despliegue, mantenimiento, seguridad informática, gestión de proyectos y pruebas de software. Destacado por la capacidad de liderar equipos y mejorar la eficiencia en los proyectos de software.
 </p>
