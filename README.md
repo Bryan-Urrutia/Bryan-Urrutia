@@ -2,9 +2,7 @@
     src="https://github.com/Bryan-Urrutia/Bryan-Urrutia/blob/main/images/Hi.gif" height="32" />
 </h1>
 <h2 align="center" style="border-bottom: 0px solid white !important;">👨‍💻 Sobre mi</h2>
-<p align="justify">
 Ingeniero Civil en Informática con amplia experiencia en desarrollo de software, abarcando Backend, Frontend, bases de datos, despliegue, mantenimiento, seguridad informática, gestión de proyectos y pruebas de software. Destacado por la capacidad de liderar equipos y mejorar la eficiencia en los proyectos de software.
-</p>
 <hr style="border-bottom: 2px solid white;">
 <h2 align="center" style="border-bottom: 2px solid white;">Habilidades 🛠️</h2>
 <h3 align="center">Lenguajes de programación</h3>
