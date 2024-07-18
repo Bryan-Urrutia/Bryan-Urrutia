@@ -60,5 +60,6 @@ Ingeniero Civil en Informática con amplia experiencia en desarrollo de software
 </table>
 
 
-## Estadística
-![Bryan Urrutia GitHub stats](https://github-readme-stats.vercel.app/api?username=bryan-urrutia&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bryan-urrutia&layout=compact&theme=dark)
+## Estadísticas
+<!-- ![Bryan Urrutia GitHub stats](https://github-readme-stats.vercel.app/api?username=bryan-urrutia&show_icons=true&theme=dark)  -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bryan-urrutia&layout=compact&theme=dark)
